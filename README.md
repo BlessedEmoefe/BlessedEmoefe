@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blessed Emoefe Onoriode</h1>
 <h3 align="center">A Fullstack Web and Mobile Developer, Innovator and Creative</h3>
 
-<p align="left"> <a href="https://twitter.com/blemo_onoriode" target="blank"><img src="https://img.shields.io/twitter/follow/blemo_onoriode?logo=twitter&style=for-the-badge" alt="blemo_onoriode" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BlessedOnoriode" target="blank"><img src="https://img.shields.io/twitter/follow/BlessedOnoriode?logo=twitter&style=for-the-badge" alt="BlessedOnoriode" /></a> </p>
 
 - 🌱 I’m currently learning **Devops, solutions architecture**
 
