@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **blessedemoefe1122334455@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sBZxaCt9GoQpKWG71tSxmG_KDq64BD6C/view?usp=sharing](https://drive.google.com/file/d/1sBZxaCt9GoQpKWG71tSxmG_KDq64BD6C/view?usp=sharing)
+- 📄 Know about my experiences; [My Resume/CV](https://drive.google.com/file/d/15tQbFbjzHMoOL6FY3fSED7dOs4YwLbXe/view?usp=sharing)
 
 - ⚡ Fun fact **I believe in writing purposeful programs and not just coding for coding sake**
 
